@@ -1,5 +1,5 @@
 from turtle import *
-#we want to paint a house
+#we want to paint 4 house
 #step 1: draw a aquare
 
 
