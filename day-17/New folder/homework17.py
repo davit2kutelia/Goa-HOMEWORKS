@@ -33,14 +33,24 @@
 # numbers = [1, 2, 3, 4, 5, 6]
 # print(even_numbers(numbers))
 
+#4
 
-def find_largest(numbers):
-    return max(numbers)
+# def find_largest(numbers):
+#     return max(numbers)
 
-# Example usage:
-numbers = [10, 5, 20, 15, 8]
-print("Largest number:", find_largest(numbers))
 
+# numbers = [10, 5, 20, 15, 8]
+# print("Largest number:", find_largest(numbers))
+
+#5
+
+# def word_starts_with_a(idk):
+#     result = []
+#     for i in idk:
+#         if (i[0]) == a:
+#             result.append(i)
+#             return 
+   
 
 
 
